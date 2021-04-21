@@ -1,3 +1,6 @@
 num1 = int(input(" enter number : "))
 num2 = int(input(" enter number 2 : "))
 print( num1 * num2 )
+x = str(input(" word "))
+y = int(input("number"))
+print(x*y)
