@@ -4,3 +4,4 @@ print("""A
 B 
 C 
 D""")
+print(('ni' * 3) + '!')
