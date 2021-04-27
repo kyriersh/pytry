@@ -8,3 +8,9 @@ def range_floats(start, stop, step):
         print(start)
 range_floats("a","b","c")
 
+def r_f(start, stop, step):
+    while start < stop :
+        yield start
+        start+=step
+for x in r_f(1,3,0.2):
+    print(x)
