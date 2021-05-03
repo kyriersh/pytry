@@ -1,5 +1,5 @@
 # return
-s1 = str(input(""))
+s1 = str(input())
 s2 = s1.replace(" ","")
 def gen():
     print("#"+s2)
