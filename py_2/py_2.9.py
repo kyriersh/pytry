@@ -1,4 +1,4 @@
-# prog liki fizz buzz
+# prog like fizz buzz
 num = int(input(" Input number : "))
 if num % 2 == 0 :
     print(num * 2)
