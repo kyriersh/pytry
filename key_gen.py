@@ -3,7 +3,8 @@ import random
 n = int(input(" password length : "))
 def key_gen(lenghth):
     alphabet = 'qwertyuiopasdfghjklzxcvbnm' \
-               'QWERTYUIOPASDFGHJKLZXCVBNM0123456789' \
+               'QWERTYUIOPASDFGHJKLZXCVBNM' \
+               '0123456789' \
                '/*-+!@#$%^&*()=\[]{}_?><'
     passw = ''
     for i in range(n):
