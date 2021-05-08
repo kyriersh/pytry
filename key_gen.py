@@ -11,5 +11,7 @@ def key_gen(lenghth):
         passw += random.choice(alphabet)
     return passw
 passw = key_gen(n)
-print(passw)
-
+print("your password : " + passw)
+file = open("test1.txt", "a")
+file.write("your password : " + passw)
+file.close()
