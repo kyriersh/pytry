@@ -5,3 +5,8 @@ print(y)
 birth_years = list(range(1950,2000,10))
 how_old_in = list(map(lambda x: 2050 - x, birth_years))
 print(how_old_in)
+names = ['David', 'John', 'Annabelle', 'Johnathan', 'Veronica']
+more_than_five = [item for item in names if len(item) > 5]
+print(more_than_five)
+
+
