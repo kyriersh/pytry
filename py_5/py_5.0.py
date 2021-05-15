@@ -5,3 +5,7 @@ try:
     print(a)
 except:
     print("error")
+p = input("qwerty:")
+i = p
+print(i)
+assert i != int(p)
