@@ -1,3 +1,4 @@
+#practice with list
 s = input()
 if "a" in s :
     print(" match ")

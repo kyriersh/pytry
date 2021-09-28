@@ -1,3 +1,4 @@
+#sum of element in list, fith func even/od
 items = [23, 555, 666, 123, 128, 4242, 990]
 
 sum = 0

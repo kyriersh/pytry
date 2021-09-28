@@ -1,4 +1,4 @@
-# while true
+# while true, appends in a list and print a list
 items = []
 
 while True:

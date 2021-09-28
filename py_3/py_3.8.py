@@ -7,6 +7,8 @@ while n > 0:
     n //= 10
 
 print(sum)
+
+
 i = 1
 while i <=10:
 
