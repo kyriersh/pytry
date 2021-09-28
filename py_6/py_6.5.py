@@ -1,3 +1,4 @@
+# practice with list
 numbs = list(range(1, 20, 1))
 print(numbs[2:6])
 print(numbs[3:8])

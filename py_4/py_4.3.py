@@ -1,4 +1,4 @@
-# password
+# my func with arguments/or without
 password = input(" input your password : ")
 confirm = input(" confirm your password : ")
 def passw_conf():

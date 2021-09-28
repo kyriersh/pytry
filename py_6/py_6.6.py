@@ -1,8 +1,8 @@
 #List comprehension
-#numbs = [i**2 for i in range(10)
-    #     if i**2 % 2 ==0]
+numbs = [i**2 for i in range(10)
+         if i**2 % 2 ==0]
 
-#print(numbs)
+print(numbs)
 n = int(input())
 
 numbs = [i**1 for i in range(n)
